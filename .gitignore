@@ -1,1 +1,3 @@
 venv/
+website/output/
+website/__pycache__/
