@@ -1,6 +1,6 @@
 AUTHOR = 'Tilman Ziel'
 SITENAME = 'Tilman Ziel'
-SITEURL = ''
+SITEURL = 'https://tilmanziel.eu'
 
 PATH = 'content'
 
