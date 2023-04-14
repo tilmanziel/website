@@ -11,3 +11,5 @@ Summary: Test page as example
 This is the content of my test blog post.
 
 This content will be visible at 12 AM.
+
+Another test.
