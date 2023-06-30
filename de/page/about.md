@@ -1,7 +1,7 @@
 ---
-author: Katheryn Fox
+author: Tilman Ziel
 title: Über mich
-date: 2021-07-15
+date: 2023-06-30
 description:
 keywords: ["about-us", "about-hugo", "contact"]
 type: about
