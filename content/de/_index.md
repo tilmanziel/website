@@ -4,7 +4,7 @@ balloon_img_src: "icons/vase.svg"
 balloon_img_src_dark: "icons/vase_dark.svg"
 balloon_circle: false
 balloon_resources: "/about"
-description: "Demo site of hugo-theme-monochrome"
+description: "Webseite von Tilman Ziel"
 zooming_js: false
 keywords:
 - hugo
@@ -12,9 +12,9 @@ keywords:
 - hugo theme monochrome
 - clean
 - responsive
-- programmer-friendly
+- Tilman Ziel
 ---
 
-{{< icon name="github" link="https://github.com/kaiiiz/hugo-theme-monochrome" >}}
+{{< icon name="github" link="https://github.com/tilmanziel/website" >}}
 
-This is the demo of hugo-theme-monochrome.
+Das ist die Website von Tilman Ziel.
