@@ -1,0 +1,15 @@
+[[navbar]]
+  identifier = "resume"
+  name = "Lebenslauf"
+  url = "/de/resume/"
+  weight = 1
+[[navbar]]
+  identifier = "activity"
+  name = "Aktivitäten"
+  url = "/de/activity/"
+  weight = 2
+[[navbar]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/de/posts/"
+  weight = 3

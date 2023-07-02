@@ -1,0 +1,15 @@
+[[navbar]]
+  identifier = "resume"
+  name = "Resume"
+  url = "/resume/"
+  weight = 1
+[[navbar]]
+  identifier = "activity"
+  name = "Activity"
+  url = "/activity/"
+  weight = 2
+[[navbar]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 3
